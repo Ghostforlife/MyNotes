@@ -10,8 +10,8 @@ public class Page
     {
         Console.Clear();
         Console.WriteLine("\nPage contents:");
-        Console.ForegroundColor = ConsoleColor.DarkGreen;
-        Book.WriteLine(Content);
+        Console.ForegroundColor = ConsoleColor.Blue;
+        Console.WriteLine(Content);
         Console.ResetColor();
     }
 }
