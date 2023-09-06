@@ -2,12 +2,20 @@ public static class MyNotes
 {
     public static string VariablesPageOne =
 @"...
-In the vast savannah of computer memory, a remarkable phenomenon occurs. 
-Behold, the magnificent 'variables' – they are the vessels of information, the heart of computation. 
-They bear names, bestowed upon them with care, starting only with letters or the humble underscore. 
-But tread with caution, for certain names are forbidden, like 'int', 'string', and 'bool'. 
-With the gentle touch of the '=' operator, values are imbued unto these variables. 
-And lo, their types can be declared, like incantations, as in 'type variableName = value;'. 
+Variabler bruger man i programmering. En variabel er et sted at gemme noget information. 
+Man kan gemme en sætning, et tal eller en helt tredje ting. 
+Når en variabel får ny information, så glemmer den det gamle information. 
+Det er derfor, det hedder en variabel. Den kan variere. Det betyder at ændre sig. 
+En variabel, som ikke kan få ny information kaldes en konstant.
+
+En variabel skal også have et navn. 
+Det er en god ide at give sin variabel et navn, som giver mening. 
+Så kan man nemlig kigge på sin variabel og vide hvad for noget information, som den gemmer på.
+
+I mange programmeringssprog skal man skrive, hvad for en type ens variabel er. 
+Der er mange forskellige typer af variabler for eksempel string, integer eller float. 
+I nogle programmeringssprog skal man ikke skrive hvilken type variabel man bruger.
+
 Observe: 
  int age = 32;
  string name = ""Jesper"";
