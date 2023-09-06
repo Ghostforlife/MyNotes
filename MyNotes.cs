@@ -16,11 +16,16 @@ I mange programmeringssprog skal man skrive, hvad for en type ens variabel er.
 Der er mange forskellige typer af variabler for eksempel string, integer eller float. 
 I nogle programmeringssprog skal man ikke skrive hvilken type variabel man bruger.
 
-Observe: 
- int age = 32;
- string name = ""Jesper"";
+Eksempel:
+ int age = 23;
+ string name = ""Mommy"";
  float awesomeLevel = 99.9f;
  bool TooCoolForSchool = false;
+
+Int er en forkortelse for integer, som skal bruge når vi har med hele tal at gøre.
+String bliver brugt til at opbevare tekst og bogstaver, det her du kan skrive din tekst.
+Float bliver også brugt til tal, men her kan du indsætte decimaler op til 7. 
+Bool er false eller true, hvliket vil sige at den kun kan have en af 2 resultater.
 ";
 
     public static string VariablesPageTwo =
